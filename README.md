@@ -15,4 +15,4 @@
 
 <br>
 
-  ![GraziiSouza Github Stats](https://github-readme-stats.vercel.app/api?username=graziisouza&show_icons=true&theme=react)
+  ![GraziiSouza Github Stats](https://github-readme-stats.vercel.app/api?username=grazisouza1&show_icons=true&theme=react)
