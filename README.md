@@ -16,10 +16,10 @@
 <br>
 
   <a href="https://github.com/grazisouza1/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=grazisouza1&theme=react" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=grazisouza1&theme=react" />
 </a>
 <a href="https://github.com/grazisouza1/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grazisouza1&layout=compact&langs_count=8&card_width=320&theme=react" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grazisouza1&layout=compact&langs_count=8&card_width=320&theme=react" />
 </a>
   
   
