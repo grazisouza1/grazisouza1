@@ -25,7 +25,7 @@
   <img height=45 width=45  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /> &nbsp;
 </div>
 
-<img align=right width=400 height=400 src="https://cdn.picrew.me/shareImg/org/202409/1911005_gF6qELNu.png"/>
+<img align=right width=400 height=400 src="https://cdn.picrew.me/shareImg/org/202409/1918788_G7wL0pOT.png"/> 
 
 <a href="https://github.com/grazisouza1/github-readme-stats">
   <img height=200 width=400 align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=grazisouza1&layout=compact&langs_count=8&card_width=320&theme=react" />
