@@ -1,13 +1,13 @@
 
 
-## Olá! Eu sou Graziella Souza
+## Hi! I'm Graziella Souza
 
-- 🖥️ Desenvolvimento de Software Multiplataforma na FATEC
+- 🖥️ Desenvolvimento de Software Multiplataforma na FATEC (Software Development)
 <div>
   <a href="https://github.com/GraziiSouza">
 </div>
 
-## **Social Medias:**
+## **Social Medias**
 
 <div>
   <a href="https://www.instagram.com/grazi_bjj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp;
@@ -15,7 +15,7 @@
   <a href="mailto:graziisouza0127@gmail.com" targey="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
 </div>
 
-## Tecnologies:
+## Tecnologies
 <div>
   <img height=45 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" /> &nbsp;
   <img height=45 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" /> &nbsp;
@@ -24,6 +24,14 @@
   <img height=45 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/> &nbsp;
   <img height=45 width=45  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /> &nbsp;
 </div>
+
+## Languages
+<div>
+  <img width=80 height=50 src='https://www.curitiba.pr.leg.br/atividade-parlamentar/legislacao/imagens/bandeira-do-brasil.png/image' title='Brazilian Portuguese'>
+  <img width=80 height=50 src='https://http2.mlstatic.com/D_NQ_NP_697146-MLB41346750924_042020-O.webp' title='English'>
+</div>
+
+## My Work
 
 <img align=right width=400 height=400 src="https://cdn.picrew.me/shareImg/org/202409/1918788_G7wL0pOT.png"/> 
 
