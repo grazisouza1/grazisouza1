@@ -19,13 +19,14 @@
   <img height=45 width=45 title='CSS' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" /> &nbsp;
   <img height=45 width=45 title='JavaScript' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> &nbsp;
   <img height=45 width=45 title='TypeScript' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" /> &nbsp;
+  <img height=45 width=45 title='React' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> &nbsp;
   <img height=45 width=45 title='Figma' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/> &nbsp;
   <img height=45 width=45 title='Canva' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /> &nbsp;
 </div>
 
 ## Languages
 <div>
-  <img width=80 height=50 src='https://www.curitiba.pr.leg.br/atividade-parlamentar/legislacao/imagens/bandeira-do-brasil.png/image' title='Brazilian Portuguese'>
+  <img width=80 height=50 src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/800px-Flag_of_Brazil.svg.png' title='Brazilian Portuguese'>
   <img width=80 height=50 src='https://http2.mlstatic.com/D_NQ_NP_697146-MLB41346750924_042020-O.webp' title='English'>
 </div>
 
