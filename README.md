@@ -23,6 +23,7 @@
   <img height=45 width=45 title='React' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> &nbsp;
   <img height=45 width=45 title='Figma' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/> &nbsp;
   <img height=45 width=45 title='Canva' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /> &nbsp;
+  <img height=45 width=45 title='MySql' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> &nbsp;
 </div>
 
 ## Languages
