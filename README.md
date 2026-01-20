@@ -36,7 +36,7 @@
 
 ## My Work
 
-<img align=right width=400 height=400 src="/images/pfpGithub.png" title='Me :)'/>
+<img align=right width=380 height=380 src="/images/pfpGithub.png" title='Me :)'/>
 
 <a href="https://github.com/grazisouza1/github-readme-stats">
   <img height=200 width=400 align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=grazisouza1&layout=compact&langs_count=8&card_width=320&theme=holi" />
