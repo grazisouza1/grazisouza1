@@ -37,10 +37,6 @@
 </div>
 &nbsp;
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/grazisouza1/grazisouza1/raw/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/grazisouza1/grazisouza1/raw/output/github-snake.svg">
-  <img alt="snk" src="https://github.com/grazisouza1/grazisouza1/raw/output/github-snake.svg">
-</picture>
+<img alt="snk" src="https://github.com/grazisouza1/grazisouza1/raw/output/github-snake.svg" width="100%">
 
 <img width=380 height=380 src="/images/pfpGithub.png" title='Me :)'/>
