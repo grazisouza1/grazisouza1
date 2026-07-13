@@ -37,6 +37,10 @@
 </div>
 &nbsp;
 
-![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/grazisouza1/grazisouza1/raw/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/grazisouza1/grazisouza1/raw/output/github-snake.svg">
+  <img alt="snk" src="https://github.com/grazisouza1/grazisouza1/raw/output/github-snake.svg">
+</picture>
 
 <img width=380 height=380 src="/images/pfpGithub.png" title='Me :)'/>
