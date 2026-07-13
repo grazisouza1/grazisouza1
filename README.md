@@ -37,4 +37,6 @@
 </div>
 &nbsp;
 
+![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
+
 <img width=380 height=380 src="/images/pfpGithub.png" title='Me :)'/>
