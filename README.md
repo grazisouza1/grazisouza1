@@ -32,7 +32,7 @@
 ## Languages
 
 <div align=left>
-  <img width=80 height=50 src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/800px-Flag_of_Brazil.svg.png' title='Brazilian Portuguese'>
+  <img width=80 height=50 src='https://github.com/user-attachments/assets/e01a0284-8d90-4f05-aadc-241c33cf4474' title='Brazilian Portuguese'>
   <img width=80 height=50 src='https://http2.mlstatic.com/D_NQ_NP_697146-MLB41346750924_042020-O.webp' title='English'>
 </div>
 &nbsp;
