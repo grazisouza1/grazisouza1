@@ -13,12 +13,13 @@
   </picture>
 </p>
 
-<p align="center">
+<!-- Profile Settings -->
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=grazisouza1&theme=github-dark&mode=light" />
     <img src="https://www.gitskins.com/api/section/stats?username=grazisouza1&theme=github-dark" alt="grazisouza1 stats section" />
   </picture>
-</p>
+</p> -->
 
 <p align="center">
   <picture>
